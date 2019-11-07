@@ -9,7 +9,7 @@ import cifo.cursjava.pla7.entidades.Alumnos;
 import cifo.cursjava.pla7.entidades.Modulos;
 import cifo.cursjava.pla7.entidades.Profesores;
 
-public class AddModulo {
+public class Main {
 
 	public static void main(String[] args) {
 		// Crear la configuración cogíendola del xml y añadiendo la clase Categorias
